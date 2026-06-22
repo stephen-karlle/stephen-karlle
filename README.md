@@ -1,51 +1,65 @@
-<h1 align="center">Hi there, I'm Stephen Karlle 👋</h1>
+# Stephen Karlle
 
-<h3 align="center">Full-Stack TypeScript Engineer | Building Scalable SaaS & Web Apps</h3>
+Full-stack TypeScript engineer focused on domain-driven architecture and scalable B2B SaaS. I build systems end-to-end — from database schema and API design to pixel-perfect, accessible UIs.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Architecting+the+Krale+Labs+Ecosystem;Full-Stack+TypeScript+Dev;Next.js+%7C+React+%7C+Node.js;Crafting+elegant+UI%2FUX" alt="Typing SVG" />
-</p>
+Currently architecting **Krale Labs**, a suite of five interconnected enterprise platforms sharing a unified Next.js + Drizzle ORM foundation.
 
 ---
 
-### 👨‍💻 About Me
+## Krale Labs
 
-- 🔭 I’m the core engineer behind the **Krale Labs Ecosystem**, an interlocking suite of enterprise SaaS platforms.
-- 💻 My primary tech stack: **React, Next.js 14, TypeScript, Tailwind CSS, Node.js, Drizzle ORM, PostgreSQL**.
-- 🎓 I have strong roots in academic and community software, having built **CloudSmiles** and **Thomasians e-Gov**.
-- 🌱 Always obsessing over modern web architecture, domain-driven design, and creating bulletproof user experiences.
-- 📫 How to reach me: Open an issue in any of my public repos!
+A B2B SaaS ecosystem I'm designing and building from the ground up. Each platform is a standalone product; together they form a cohesive operational suite for modern organizations.
 
----
+| Platform | Description | Status |
+|---|---|---|
+| 📦 **Flux** | Enterprise inventory & supply chain — double-entry ledger, batch tracking, multi-warehouse routing, GRN management | `completed` |
+| ⚡ **Pulse** | Real-time event monitoring & analytics dashboard for high-volume data streams and system health | `in development` |
+| ⏳ **Chrono** | Workforce scheduling, time-tracking, and operational efficiency management for large teams | `in development` |
+| 🔮 **Arcane** | Internal developer tooling — deployment logs, environment secrets, and infrastructure governance | `in development` |
+| 🌟 **Astral** | Centralized IAM & SSO provider bridging all Krale applications with single sign-on and tenant management | `in development` |
 
-### 🌌 The Krale Labs Ecosystem
-
-I am currently developing a suite of 5 inter-connected, high-performance platforms, built on a unified Next.js + Drizzle ORM architecture:
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📦 **[Flux](https://github.com/stephen-karlle/flux)** | An enterprise-grade, end-to-end Inventory and Supply Chain Management Platform featuring a double-entry ledger, batch tracking, and real-time metrics. | Next.js, Drizzle, Postgres, Jotai |
-| ⚡ **[Pulse](https://github.com/stephen-karlle/pulse)** | (In Development) A rapid, real-time event monitoring and analytics dashboard tailored for high-volume data streams. | Next.js, Drizzle, WebSockets |
-| ⏳ **[Chrono](https://github.com/stephen-karlle/chrono)** | (In Development) Advanced time-tracking, workforce scheduling, and operational efficiency management system. | Next.js, Drizzle, Postgres |
-| 🔮 **[Arcane](https://github.com/stephen-karlle/arcane)** | (In Development) Internal developer tooling and infrastructure governance platform for the Krale Labs suite. | Next.js, React Query, Tailwind |
-| 🌟 **[Astral](https://github.com/stephen-karlle/astral)** | (In Development) The central identity and cross-platform authentication provider bridging all Krale applications. | Next.js, Postgres, Auth |
+**Shared foundation:** Next.js 14 (App Router) · TypeScript · Drizzle ORM · PostgreSQL · Tailwind CSS · Shadcn UI · Docker
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Selected prior work
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,prisma,docker,git,vscode,figma&perline=12" />
-  </a>
-</p>
+Before Krale Labs, I built complex full-stack platforms across healthcare, governance, and community domains:
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephen-karlle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stephen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-karlle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+- **CloudSmiles** — Healthcare management platform (thesis project). Patient record security, clinical data workflows, and a dual-facing portal for staff and patients. `TypeScript · Node.js · React`
+- **Thomasians e-Gov** — University e-governance system with role-based access control, org hierarchy management, and academic administrative workflows. `TypeScript · React`
+- **Skillswap** — Community-driven peer-to-peer skill exchange platform. `JavaScript · React`
+- **Arcstar** — High-performance TypeScript utility library focused on algorithmic optimization and strict type safety. `TypeScript`
 
 ---
-<p align="center"><i>Building products that matter.</i></p>
+
+## Engineering approach
+
+- **Domain-Driven Design** — I model systems around business domains first, not technology. Schema, API boundaries, and UI state all reflect the same conceptual model.
+- **Strict type safety** — End-to-end TypeScript, from Drizzle schema inference through tRPC or API routes to the React component layer.
+- **Modular, portable architecture** — The Krale Labs shared boilerplate means each platform can be scaffolded rapidly without sacrificing structural parity or code quality.
+- **Pixel-perfect UI** — I treat the frontend as a first-class engineering concern, not an afterthought. Design systems, accessibility, and performance are built in from the start.
+
+---
+
+## Stack
+
+**Languages:** TypeScript, JavaScript
+
+**Frontend:** React, Next.js 14 (App Router), Tailwind CSS, Shadcn UI, @untitledui/icons
+
+**Backend:** Node.js, PostgreSQL, Drizzle ORM, Prisma
+
+**Infrastructure:** Docker, environment-based config management
+
+**Practices:** Domain-Driven Design (DDD), RBAC, RESTful & type-safe API design, monorepo architecture
+
+---
+
+## Get in touch
+
+I'm open to senior full-stack roles, freelance architecture consulting, and B2B SaaS collaborations.
+
+**Email:** [karlledstephen@gmail.com]  
+**Portfolio:** [karlle.vercel.app]  
+**LinkedIn:** [linkedin.com/in/stephen-karl]
