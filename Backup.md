@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 <svg width="720" height="140" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg">
   <rect width="720" height="140" fill="#0A0A0F" rx="12"/>
@@ -184,4 +184,4 @@ Pixel-Perfect UI         Design systems and accessibility are first-class
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=flat-square&logo=linkedin&logoColor=6B5CE7)](https://linkedin.com/in/stephenkarlle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0F?style=flat-square&logo=vercel&logoColor=6B5CE7)](https://yourportfolio.com)
 
-</div> -->
+</div>
